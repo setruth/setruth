@@ -1,14 +1,24 @@
-## Hi I’m setruth 👋😎😎😎
+## Hi I’m setruth 👋🤖🤖🤖
 ![](https://komarev.com/ghpvc/?username=setruth&color=yellow&label=home-page-review)
-> I am a computer major student, and I am the organizer of the Guizhou Community Group in the Kotlin Language KUG Community Group，I'm a full stack developer
+![](https://img.shields.io/github/stars/setruth?affiliations=OWNER&style=flat&color=green)
+![](https://img.shields.io/github/followers/setruth?style=flat&color=blue)
+![](https://img.shields.io/badge/FavProgLang-kotlin-purple?style=flat-square&logo=kotlin)
+![](https://img.shields.io/badge/use-JetBrains-black?style=flat-square&logo=jetbrains)
+> I am a computer science student👨‍💻 and I am a community organizer of the Kotlin Language KUG Community Group in Guizhou Province, China💖，I'm a full stack developer😎😎😎
 
-###  ❤️This is my BliBli home page ➡️[Click](https://space.bilibili.com/367514778)
 
-![](https://stats.justsong.cn/api/bilibili/?id=367514778)
+<div style="display: flex;">
+        <div style="width: fit-content;display: flex;flex-direction: column;align-items: center;">
+            <p>❤️ Review my BliBli home page 👀➡️<a href="https://space.bilibili.com/367514778">Click</a></p>
+            <img src="https://stats.justsong.cn/api/bilibili/?id=367514778" alt="blibli"  />
+        </div>
+        <div style="width: fit-content;display: flex;flex-direction: column;align-items: center;">
+            <p>❤️ Review my JueJin home page 👀➡️<a href="https://juejin.cn/user/2946346893987704">Click</a></p>
+            <img src="https://stats.justsong.cn/api/juejin?id=2946346893987704" alt="juejin"  />
+        </div>
+</div>
 
-###  ❤️This is my JueJin home page ➡️[Click](https://juejin.cn/user/2946346893987704)
-
-![](https://stats.justsong.cn/api/juejin?id=2946346893987704)
+***
 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...

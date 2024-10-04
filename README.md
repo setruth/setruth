@@ -6,17 +6,14 @@
 ![](https://img.shields.io/badge/use-JetBrains-black?style=flat-square&logo=jetbrains)
 > I am a computer science student👨‍💻 and I am a community organizer of the Kotlin Language KUG Community Group in Guizhou Province, China💖，I'm a full stack developer😎😎😎
 
+## My social platform ✨
+- ❤️ Review my BliBli home page 👀➡️ [Click](https://space.bilibili.com/367514778)
+- ❤️ Review my JueJin home page 👀➡️ [Click](https://juejin.cn/user/2946346893987704)
+<p>
+<img src="https://stats.justsong.cn/api/bilibili/?id=367514778" alt="blibli"  width="49%"/>
+<img src="https://stats.justsong.cn/api/juejin?id=2946346893987704" alt="juejin" width="49%"  />
+<p>
 
-<div style="display: flex;">
-        <div style="width: fit-content;display: flex;flex-direction: column;align-items: center;">
-            <p>❤️ Review my BliBli home page 👀➡️<a href="https://space.bilibili.com/367514778">Click</a></p>
-            <img src="https://stats.justsong.cn/api/bilibili/?id=367514778" alt="blibli"  />
-        </div>
-        <div style="width: fit-content;display: flex;flex-direction: column;align-items: center;">
-            <p>❤️ Review my JueJin home page 👀➡️<a href="https://juejin.cn/user/2946346893987704">Click</a></p>
-            <img src="https://stats.justsong.cn/api/juejin?id=2946346893987704" alt="juejin"  />
-        </div>
-</div>
 
 ***
 

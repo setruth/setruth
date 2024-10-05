@@ -17,6 +17,27 @@
 ## Are doing 🤔
 **I am now working in the coal mining industry ⛏⛏⛏.**
 
+- Server development :
+
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-23272E?style=flat&logo=springboot) 
+![mongodb](https://img.shields.io/badge/-MongoDB-23272E?style=flat&logo=mongodb) 
+![MySQL](https://img.shields.io/badge/-MySQL-23272E?style=flat&logo=mysql) 
+
+- Mobile development :
+
+![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-23272E?style=flat&logo=jetpackcompose)
+![uniapp](https://img.shields.io/badge/-Uniapp-23272E?style=flat&logo=uniapp)
+
+- 3D development :
+
+![Threejs](https://img.shields.io/badge/-Threejs-23272E?style=flat&logo=threedotjs)
+![Unity](https://img.shields.io/badge/-Unity-23272E?style=flat&logo=Unity) 
+
+- website development :
+
+![Echarts](https://img.shields.io/badge/-ECharts-23272E?style=flat&logo=apacheecharts)
+![Vue.js](https://img.shields.io/badge/-Vue.js-23272E?style=flat&logo=vuedotjs) 
+
 ## About me 📊
 - 📚 I learned the skills
   
@@ -37,7 +58,7 @@
 ![Android](https://img.shields.io/badge/-Android-23272E?style=flat&logo=Android) 
 ![JetpackCompose](https://img.shields.io/badge/-JetpackCompose-23272E?style=flat&logo=jetpackcompose) 
 ![Spring](https://img.shields.io/badge/-Spring-23272E?style=flat&logo=spring) 
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-23272E?style=flatlogo=springboot) 
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-23272E?style=flat&logo=springboot) 
 ![MySQL](https://img.shields.io/badge/-MySQL-23272E?style=flat&logo=mysql) 
 ![Redis](https://img.shields.io/badge/-Redis-23272E?style=flat&logo=redis) 
 ![mongodb](https://img.shields.io/badge/-MongoDB-23272E?style=flat&logo=mongodb) 
@@ -48,7 +69,8 @@
 ![Cocos](https://img.shields.io/badge/-Cocos-23272E?style=flat&logo=cocos) 
 ![GODOT](https://img.shields.io/badge/-Godot-23272E?style=flat&logo=godotengine)
 ![Threejs](https://img.shields.io/badge/-Threejs-23272E?style=flat&logo=threedotjs)
-![Threejs](https://img.shields.io/badge/-Nodejs-23272E?style=flat&logo=nodedotjs)
+![Echarts](https://img.shields.io/badge/-ECharts-23272E?style=flat&logo=apacheecharts)
+![nodedotjs](https://img.shields.io/badge/-Nodejs-23272E?style=flat&logo=nodedotjs)
 
 - 🛠 I use the tools
 

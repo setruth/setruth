@@ -80,5 +80,4 @@
 ***
 
 ### 🚀Language statistics for all Repositories
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setruth&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setruth&layout=compact&theme=onedark)

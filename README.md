@@ -57,7 +57,7 @@
 ![](https://img.shields.io/badge/-DataGrip-333333?style=plastic&logo=datagrip)
 ![](https://img.shields.io/badge/-Pycharm-333333?style=plastic&logo=pycharm)
 ![](https://img.shields.io/badge/-Webstorm-333333?style=plastic&logo=webstorm)
-![](https://img.shields.io/badge/VSCode-333333?logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/VSCode-333333?style=plastic)
 ![](https://img.shields.io/badge/-AndroidStudio-333333?style=plastic&logo=androidstudio)
 ![](https://img.shields.io/badge/-Vim-333333?style=plastic&logo=vim)
 ![](https://img.shields.io/badge/-Hbuilder-333333?style=plastic&logo=Hbuilder)
